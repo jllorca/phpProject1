@@ -14,7 +14,7 @@
  	$operacio=$v1/$v2;
 
  	echo $operacio;
-
+ 	echo 'metode fantasma';
 
  ?>
  </body>
